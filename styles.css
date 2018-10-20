@@ -6,7 +6,7 @@ border: 1px;
 background-color:blue;
 width:140px;
 height:70px;
-padding:12px;
+padding:20px;
 border-radius:50%;
 }
 
@@ -15,7 +15,7 @@ body
 
 {
 
-height:20px;
-background-image:linear-gradient(lightyellow,yellow)
+internal space:20px;
+background-image:linear-gradient(lightyellow,yellow);
 
 }
